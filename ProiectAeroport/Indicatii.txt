@@ -1,0 +1,7 @@
+Pentru a deschide aplicatia urmati urmatorii pasi:
+1. Simulati pe rand in mysql "proiect" apoi "proceduri", iar apoi "View"
+2. Deschideti proiectul java si schimbati adresele pozelor apoi se poate simula si ar trebui
+sa se deschida o aplicatie.
+3. pentru logare folositi urmatoarele credentiale:
+Username: admin
+Password: avramiancu
